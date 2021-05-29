@@ -4,3 +4,5 @@ Mini Machine Learning Project to predict the genres of music according to the ag
 ## Graph Visualization:
 
 ![Screenshot (263)](https://user-images.githubusercontent.com/64021315/120065016-ab7b4580-c088-11eb-9cc2-449cd60b212e.png)
+
+Project is a part of ML Course of Mosh
